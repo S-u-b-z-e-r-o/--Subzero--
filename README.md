@@ -1,2 +1,3 @@
 # --Subzero--
---Subzero--'s scratch website- in construction
+--Subzero--'s scratch website
+In construction, sorry :/
